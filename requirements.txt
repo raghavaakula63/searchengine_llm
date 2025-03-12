@@ -33,3 +33,4 @@ huggingface_hub
 tiktoken
 cassio
 datasets
+duckduckgo-search
